@@ -17,5 +17,6 @@ class avgdigit
 		double avg=sum/2.0;
 		System.out.println("avg is" + avg);
 System.out.println("HP");
+System.out.println("added");
 	}
 }
