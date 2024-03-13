@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class avgdigit
+class avgno
 {
 	public static void main(String [] args)
 	{
